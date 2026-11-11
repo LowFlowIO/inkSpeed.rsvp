@@ -1,0 +1,18 @@
+InkBoy upstream provenance
+==========================
+
+Project: https://github.com/kuslota/InkBoy
+Commit:  823265ea5a9307749e5f61ea07eb7a40df793cc8
+Download (public tarball, not a git checkout):
+  https://codeload.github.com/kuslota/InkBoy/tar.gz/823265ea5a9307749e5f61ea07eb7a40df793cc8
+Retrieved: 2026-11-07 (UTC)
+
+These files were copied unchanged from that tarball:
+
+  688785597ea0b44e7d272b5ccd06bfccdd4a841ce0d811098db8de12fd130e63  components/ssd1681_fast/ssd1681_fast.c  (30430 bytes)
+  908adef9567bb251e266f57faf37576d796bd607ba7a9c4952029e5d3188e3bb  components/ssd1681_fast/ssd1681_vendor_tables.h  (2198 bytes)
+  fbd8318d4ef876992806635ce909d9bb082a8b40e0a3079848191f6e013ae729  components/ssd1681_fast/CMakeLists.txt  (127 bytes)
+  33763f6214f86b9fce79a787c06ccff0ee91eee84e6dbf6f3ac86a134ba971d5  components/ssd1681_fast/include/ssd1681_fast.h  (3856 bytes)
+  28054a72464cbbe21dd09f25e2425454145079026083d20c7ea50988df05fc02  components/ssd1681_fast/include/ssd1681_gray_waveform.h  (1016 bytes)
+  f47757888bc1ff2d7278e1eae20599dfd54f42d25783c0dbe291250ad2b98fd8  src/drive_counters.c  (2491 bytes)
+  e666f403c812bb03c354d17e6291dd75b3b55cc8527f7399874f4e51ec92951e  src/drive_counters.h  (810 bytes)

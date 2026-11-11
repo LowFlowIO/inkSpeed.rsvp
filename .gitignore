@@ -1,0 +1,35 @@
+# PlatformIO / ESP-IDF
+.pio/
+build/
+managed_components/
+sdkconfig
+sdkconfig.old
+sdkconfig.*.old
+# Generated per-environment sdkconfig; sdkconfig.defaults is the source of truth.
+sdkconfig.*
+!sdkconfig.defaults
+!sdkconfig.defaults.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build artifacts (no firmware images in this tree)
+*.bin
+*.elf
+*.map
+*.o
+*.a
+
+# Generated host-test previews
+tools/font_preview/
+
+# Local screenshots, not part of the source
+shots/
+
+# Editors / OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store

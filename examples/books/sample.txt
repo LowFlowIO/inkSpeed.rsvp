@@ -1,0 +1,11 @@
+Welcome to inkSpeed.
+
+This is a short sample book so you can try the reader before you copy your own files onto the card. It is ordinary UTF-8 text. There is no EPUB support in this version, and fonts are not loaded from the SD card.
+
+Each word appears in the middle of the screen. A pair of marks near the left of centre shows the recognition point when ORP alignment is on. Tap Up to pause. While paused, you will see the surrounding sentence and a rough percentage through the file.
+
+Tap Down to jump back to the previous sentence. Hold Down to save your place and return to the library. Hold Up to change speed, type size, pauses, the startup countdown, and alignment. Hold both buttons for two seconds to power the board off.
+
+Punctuation adds a little extra time: commas pause briefly, and a full stop waits longer. Very long words also stay on screen a bit longer, and if one will not fit even in the small face it is shown in pieces instead of being skipped.
+
+Copy other UTF-8 .txt files into the /books folder of a FAT32 card, put the card in the board, and choose Books from the home menu. Happy reading.
